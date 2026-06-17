@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Leonardo+Monteiro+Souza;Estudante+de+Engenharia+de+Computa%C3%A7%C3%A3o;Criando+software+de+ponta+a+ponta" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Leonardo+Monteiro+Souza;Estudante+de+Engenharia+de+Computa%C3%A7%C3%A3o;Desenvolvedor+de+Software" alt="Typing SVG" />
 
   <p align="center">
     📍 Fortaleza, Ceará, Brasil
@@ -20,49 +20,45 @@
 
 ---
 
-## 👤 Quem é o Leonardo?
+## 👤 Sobre Mim
 
-E aí! Sou estudante de **Engenharia de Computação** na Universidade Federal do Ceará (UFC). Sabe aquela curiosidade de querer abrir as coisas para ver como funcionam por dentro? É basicamente o que me move na computação. Quero entender desde como os bits conversam com o hardware até como construir uma aplicação web moderna que entrega uma experiência animal para o usuário.
+Olá! Meu nome é Leonardo e sou estudante de **Engenharia de Computação** na Universidade Federal do Ceará (UFC). Escolhi essa área porque sempre tive interesse em entender como os computadores funcionam internamente e como podemos criar softwares eficientes para resolver problemas reais.
 
-Por isso, meu foco hoje se divide em dois mundos que adoro: a agilidade do ecossistema JavaScript/TypeScript no ecossistema web e o controle milimétrico do C++ para computação gráfica. Acredito que o bom desenvolvedor não fica preso a uma bolha; ele aprende o que for necessário para resolver o problema com código limpo e bem estruturado.
+No meu dia a dia, busco aprender tanto a criação de sites e sistemas modernos para a internet quanto o desenvolvimento de programas mais complexos que lidam diretamente com a parte visual e gráfica dos computadores. Meu objetivo é construir uma carreira sólida baseada em dedicação, estudo constante e entrega de projetos de alta qualidade.
 
 > "Faze o que deves e está no que fazes." 
 > — *São Josemaria Escrivá*
 
 ---
 
-## 🚀 O que estou aprontando ultimamente?
+## 🚀 Projetos e Estudos Atuais
 
-No momento, estou gastando bastante neurônio no universo da **Computação Gráfica**. Estou aprendendo como os pixels e a física dos jogos ganham vida direto na GPU.
+Atualmente, venho dedicando meu tempo livre para estudar os fundamentos da tecnologia de imagens e criação de sistemas digitais.
 
-*   **Meu xodó atual:** Desenvolver uma Game Engine própria do zero para fixar os conceitos.
-*   **Foco de estudos:** Pipeline de renderização, matemática de matrizes, criação de shaders e boas práticas de arquitetura em TypeScript.
-*   **Próximo passo:** Implementar cálculos reais de iluminação e efeitos visuais com sistemas de partículas.
+*   **Foco Atual:** Criação de um motor gráfico (software básico para exibição de imagens em 3D e jogos).
+*   **Objetivo:** Compreender a fundo como o computador processa imagens, luzes e elementos visuais na tela.
+*   **Outros Estudos:** Aprimoramento na criação de aplicações modernas utilizando as tecnologias mais recomendadas do mercado web.
 
 ---
 
-## 🛠️ Minhas Ferramentas de Trabalho
+## 🛠️ Tecnologias e Ferramentas
 
-### 💻 Linguagens que uso no dia a dia
+### 💻 Criação de Sistemas e Web
 <p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
-
-### 🌐 Web & Backend
-<p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
-### 🎨 Gráficos & Computação Visual
+### ⚙️ Programação de Base e Gráficos
 <p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat-square&logo=opengl&logoColor=white" alt="OpenGL" />
 </p>
 
-### ⚙️ No terminal e no sistema
+### 📁 Ferramentas Auxiliares
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
@@ -70,24 +66,24 @@ No momento, estou gastando bastante neurônio no universo da **Computação Grá
 
 ---
 
-## 📂 Projetos em Destaque
+## 📂 Projeto em Destaque
 
-### 🎮 Custom Game Engine
-*   **O que é:** Uma engine de jogos que estou construindo para entender, na prática, como os motores gráficos de mercado funcionam por baixo dos panos.
+### Motor Gráfico Próprio (Game Engine)
+*   **Descrição:** Um projeto prático feito do zero para estudar como as imagens tridimensionais e os efeitos visuais são gerados e exibidos na tela do computador.
 *   **Tecnologias:** C++, C e OpenGL.
-*   **Status:** 🛠️ *Ativo! Atualmente quebrando a cabeça com a implementação de Shaders e renderização de malhas em 3D.*
+*   **Status:** Em desenvolvimento ativo.
 
 ---
 
-## 🎓 Formação Acadêmica
+## 🎓 Formação
 
 *   **Graduação em Engenharia de Computação**
     *   Universidade Federal do Ceará (UFC)
-    *   *Onde passo meus dias estudando arquitetura de computadores, lógica digital e algoritmos estruturados.*
+    *   *Estudos focados em estrutura de computadores, lógica de programação e criação de softwares.*
 
 ---
 
-## 📊 Minhas Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leomonza8&show_icons=true&theme=dark&hide_border=true&bg_color=050505" alt="GitHub Stats" width="48%" />
@@ -103,15 +99,15 @@ No momento, estou gastando bastante neurônio no universo da **Computação Grá
 
 ---
 
-## 🤝 Bora trocar uma ideia?
+## 🤝 Contato e Networking
 
-Estou sempre aberto para conversar sobre tecnologia, desenvolvimento web, computação gráfica ou só fazer um networking maneiro. Se tiver algum projeto open-source precisando de uma força, só chamar!
+Estou disponível para conversar sobre projetos de software, oportunidades de aprendizado e conexões profissionais.
 
-*   📧 Manda um e-mail: **leomonza@alu.ufc.br**
-*   📸 Me acompanha lá no Instagram: **@leo.monza**
+*   📧 E-mail institucional: **leomonza@alu.ufc.br**
+*   📸 Instagram profissional/pessoal: **@leo.monza**
 
 ---
 
 <div align="center">
-  <sub>Focado em fazer bem feito e evoluir um passo de cada vez. | Última atualização: Junho de 2026</sub>
+  <sub>Buscando sempre a excelência no trabalho e no aprendizado diário.</sub>
 </div>
