@@ -61,14 +61,6 @@ Além dele, também tenho uns projetos menores pelo caminho — um [monitor de h
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leomonza8&show_icons=true&theme=dark&hide_border=true&bg_color=050505)](https://github.com/Leomonza8) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Leomonza8&theme=dark&hide_border=true&background=050505)](https://github.com/Leomonza8)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leomonza8&layout=compact&theme=dark&hide_border=true&bg_color=050505)](https://github.com/Leomonza8) [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leomonza8&theme=react-dark&bg_color=050505&hide_border=true)](https://github.com/Leomonza8)
-
----
-
 ## 🤝 Contato e Networking
 
 Estou disponível para conversar sobre projetos de software, oportunidades de aprendizado e conexões profissionais.
