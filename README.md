@@ -8,9 +8,9 @@
 
 ## 👤 Sobre Mim
 
-Olá! Meu nome é Leonardo e sou estudante de **Engenharia de Computação** na Universidade Federal do Ceará (UFC). Escolhi essa área porque sempre tive interesse em entender como os computadores funcionam por dentro e como podemos criar softwares eficientes para resolver problemas reais.
+Olá! Meu nome é Leonardo e sou estudante de **Engenharia de Computação** na Universidade Federal do Ceará (UFC). Escolhi essa área porque sempre tive interesse em entender como os computadores funcionam por dentro e como podemos criar softwares para resolver problemas do dia a dia.
 
-No meu dia a dia, busco aprender tanto a criação de sites e sistemas modernos para a internet quanto o desenvolvimento de programas mais complexos que lidam diretamente com a parte visual e gráfica dos computadores. Meu objetivo é construir uma carreira sólida baseada em dedicação, estudo constante e entrega de projetos de alta qualidade.
+Busco aprender tanto a criação de sites e sistemas modernos para a internet quanto o desenvolvimento de programas mais complexos que lidam diretamente com a parte visual e gráfica dos computadores ( engines). Meu objetivo é construir uma carreira sólida baseada em dedicação, estudo constante e entrega de projetos com muito esforço e dedicação.
 
 > "Faze o que deves e está no que fazes."
 > — *São Josemaria Escrivá*
